@@ -18,6 +18,8 @@ Install dependencies
 ```
 npm install
 ```
+[Deploy your code](https://www.serverless.com/framework/docs/providers/aws/guide/deploying/)
+
 ![alt text](https://github.com/BelalH/serverless-simple-auth/blob/master/auth-service.png)
 
 
