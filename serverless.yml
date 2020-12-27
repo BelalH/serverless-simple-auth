@@ -1,6 +1,6 @@
 service: authservices
 frameworkVersion: '2'
-  
+
 provider:
   name: aws
   runtime: nodejs12.x
@@ -50,7 +50,7 @@ functions:
           cors: true
           authorizer: verify-token
 
-resources: # CloudFormation template syntax from here on.
+resources:
   Resources:
     usersTable:
       Type: AWS::DynamoDB::Table
