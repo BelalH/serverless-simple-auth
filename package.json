@@ -1,0 +1,13 @@
+{
+  "name": "serverless-simple-auth",
+  "version": "1.0.0",
+  "description": "This code will quickly generate Login and Registration API using API gateway, lambda and dynamodb",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.814.0",
+    "bcryptjs": "^2.4.3",
+    "bcryptjs-then": "^1.0.1",
+    "dynamodb-client": "^1.0.6",
+    "jsonwebtoken": "^8.2.1"
+  }
+}
