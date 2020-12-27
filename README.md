@@ -10,10 +10,4 @@ Install dependencies
 ```
 npm install
 ```
-
-<img
-src=“./auth-service.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/BelalH/serverless-simple-auth/blob/master/auth-service.png)
