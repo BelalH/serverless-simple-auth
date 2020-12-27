@@ -19,3 +19,8 @@ Install dependencies
 npm install
 ```
 ![alt text](https://github.com/BelalH/serverless-simple-auth/blob/master/auth-service.png)
+
+
+
+Applying this 
+[blog](https://www.serverless.com/blog/strategies-implementing-user-authentication-serverless-applications) implementation, adding Dynamodb as the main DB instead of MongoDB
